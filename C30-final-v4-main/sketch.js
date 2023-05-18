@@ -41,7 +41,7 @@ function draw() {
   
   cannon.display();
   tower.display();
-
+  console.log()
   
 }
 
